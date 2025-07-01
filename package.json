@@ -1,0 +1,21 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "dev": "node --waatch app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hackkartik/URL-shortener.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hackkartik/URL-shortener/issues"
+  },
+  "homepage": "https://github.com/Hackkartik/URL-shortener#readme",
+  "description": ""
+}
